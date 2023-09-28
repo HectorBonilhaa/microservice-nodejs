@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "cliente",
+      "path": "cliente"
+    },
+    {
+      "name": "pedidos",
+      "path": "pedidos"
+    },
+    {
+      "name": "produto",
+      "path": "produto"
+    }
+  ],
+  "settings": {}
+}
